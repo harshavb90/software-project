@@ -33,7 +33,7 @@ int main() {
     return 0;
 }
 output
-enter coefficients a, b, and c: 2 3 6
-Roots are complex:
-Root 1 = -0.75 + 1.56i
-Root 2 = -0.75 - 1.56i
+Enter coefficients a, b, and c: 1 -3 2
+Roots are real and distinct:
+Root 1 = 2.00
+Root 2 = 1.00
